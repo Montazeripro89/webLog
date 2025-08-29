@@ -1,0 +1,19 @@
+.lies {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 4vw;
+}
+
+.li {
+    cursor: pointer;
+    transition: 0.3s;
+    border: none;
+    outline: none;
+    color: whitesmoke;
+}
+
+.li:hover {
+    border-bottom: 0.125vw solid whitesmoke;
+}
