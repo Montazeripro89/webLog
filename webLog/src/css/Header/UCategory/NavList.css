@@ -5,4 +5,5 @@
     flex-direction: row;
     list-style-type: none;
     user-select: none;
+    gap: 4vw;
 }
